@@ -32,25 +32,25 @@ I've provided detailed step-by-step instructions in the zip file above for you t
 
 Of course, you're also welcome to implement your solution without following those instructions, but you still need to implement all the required functionality for the project. Specifically, your solution needs to:
 
-Spawn 4 asteroids that move into the screen from the middle of the top, bottom, left, and right sides
+ - Spawn 4 asteroids that move into the screen from the middle of the top, bottom, left, and right sides
 
-Make sure the asteroids don't collide with each other but do collide with the ship
+ - Make sure the asteroids don't collide with each other but do collide with the ship
 
-Destroy the ship when it collides with an asteroid
+ - Destroy the ship when it collides with an asteroid
 
 ### Testing Your Game
 
 Here are the rubrics we used in previous versions of the course to confirm that the game functioned correctly:
 
-Asteroids enter the screen from around the middle of all 4 side
+ - Asteroids enter the screen from around the middle of all 4 side
 
-Asteroids are moving into the screen as they enter the screen
+ - Asteroids are moving into the screen as they enter the screen
 
-Asteroids don't collide with asteroids
+ - Asteroids don't collide with asteroids
 
-Asteroids collide with the ship
+ - Asteroids collide with the ship
 
-The ship disappears when it collides with an asteroid
+ - The ship disappears when it collides with an asteroid
 
 ### Project Solution
 
