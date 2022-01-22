@@ -4,7 +4,9 @@ Although this exercise isn't worth any points, it gives you valuable programming
 ### Getting Started
 
 Download the zip file below and extract the file somewhere on your computer.
+
 *Exercise 8 Materials - iCloud*
+
 Double-click the index file in the Help folder and click the Exercise8 link in the pane on the left; this is the documentation for the Die class I provided to you in the Exercise8 solution. Note: You can't open the index file from within the zip file, you need to open it in the extracted (unzipped) location.
 
 Open the Exercise8 solution in Visual Studio.
