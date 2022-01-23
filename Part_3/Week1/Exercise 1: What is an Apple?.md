@@ -6,13 +6,13 @@ Generate a number of abstractions for an apple based on what you plan to do with
 
  For example, if you plan to eat the apple, the following characteristics might matter to you:
 
- Type (Honey Crisp, Red Delicious, etc.)
+  - Type (Honey Crisp, Red Delicious, etc.)
 
-Organic or not
+ - Organic or not
 
-Ripeness
+ - Ripeness
 
-Quality (number of bruises, worm holes, etc.)
+ - Quality (number of bruises, worm holes, etc.)
 
  and so on.
 
