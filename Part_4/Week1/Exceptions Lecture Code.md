@@ -1,0 +1,20 @@
+# Exceptions Lecture Code
+
+Download the code for your IDE below if you'd like a copy. The Unity  projects I provide work with both MonoDevelop and Visual Studio.
+
+*All Lectures*
+
+[MonoDevelop Code All Lectures](https://d3c33hcgiwev3.cloudfront.net/_4c5ce85855cfa6de03cc51496fdf00fe_1-2-MonoDevelop-Code-All-Lectures.zip?Expires=1643068800&Signature=DJvoScTxCLOaH2tXFVpqsNTVW3q6NAe2XaCq0LBhjG94YOD9pFgComJhK8n6uUaswDR9fMP7LKmu8vaid-p~5GrmAlN5z0OaYeCxLNkEvAp0~HyBa~yL7wDkPLRL~XhCyvIviW2icTdTwRdjQ33unZx8Ytzi7fNjCGCOBpqxATQ_&Key-Pair-Id=APKAJLTNE6QMUY6HBC5A)
+[Visual Studio Code All Lectures](https://d3c33hcgiwev3.cloudfront.net/_7136dd893fc9fcc65b95d0c2bf01e5b6_1-2-Visual-Studio-Code-All-Lectures.zip?Expires=1643068800&Signature=WTUHr4ARRgk2T6uugHhbDWzotvb~ttHOZ4eiW1pU4ImcUPp2jnzaCgXmzZ~tXUlR5JAkYu7uQvQ4rfwwFuvHClce-g7P9q2bzlVZsm~pkyWTutJIBYCYZq78AhicBx0bxstf2l5wuYpAHT62RfTRpETpyKiMYLM2P0SJHc8errA_&Key-Pair-Id=APKAJLTNE6QMUY6HBC5A)
+
+*What Are Exceptions?*
+
+[MonoDevelop Final Code](https://d3c33hcgiwev3.cloudfront.net/_ebf74e4f162e3dd7d66f600f8cfcd9cd_1-2-2-MonoDevelop-Final-Code.zip?Expires=1643068800&Signature=OODH7KY~GsBWgYXcT2lHhd2WcjJsi4W8eQFksGMIj3qKeabDSYhdXWh8jtnVFNG2UHeuQhFX0nLCaIHXtPmVOmtphb2mjw2KqS1~GFyQxtaPX9WT36rCeryOlup3Oxw-Ls1yeSTFzIET6Emj7iPpn3UNhJLIqnACltyN-LSFDsY_&Key-Pair-Id=APKAJLTNE6QMUY6HBC5A)
+[Visual Studio Final Code](https://d3c33hcgiwev3.cloudfront.net/_ba0526d6c98421b58db0db9f93714228_1-2-2-Visual-Studio-Final-Code.zip?Expires=1643068800&Signature=fOLO-bve4pxKQGZqecT2zdq5UntPpdaVfEleSF3iJgs7oz~Dua35fVr8gTamKEAjy2~dKF5qfIycF7apnW3VNLBP17eCdZ5oAjX4dl3crX5DC26GSdXl6PxfL8xW9G9vybNsBysL5pibgltiykv4S7hjVE9PG5xOnHnwAB2qup8_&Key-Pair-Id=APKAJLTNE6QMUY6HBC5A)
+
+*Exception Handlers*
+
+[MonoDevelop Start Code](https://d3c33hcgiwev3.cloudfront.net/_b4451f6634fb3b80d46a7c6fcfb1b916_1-2-3-MonoDevelop-Start-Code.zip?Expires=1643068800&Signature=A6c2n0N2nBNw6qC6u~hbltEqyZM4h97kbmxspAwaGfErXCWX3-Z6WFvwNi59hwkCWk~ruJmK25Zzcv4FazcQqvfBZ86a2RsnEM~JypjjyX3~-7IhJlCR8RjsUAZJQCQPqjjtAhjuuh3V2L1D7msTXxANBpuZldwlbte3Y3ZVyi0_&Key-Pair-Id=APKAJLTNE6QMUY6HBC5A)
+[MonoDevelop Final Code](https://d3c33hcgiwev3.cloudfront.net/_2515f19c1d2cdffb66b6f805298f3b54_1-2-3-MonoDevelop-Final-Code.zip?Expires=1643068800&Signature=MfDgQCVR3oBW4sBbl9djvWCaY5kKijzfUWTK228qVSwBJXqneEHALHgI9Z7DnYAKTyUYUDC914ITqzZGraWWSU3cQH3CLW4nVpawMyfX716uLLL3sRKd103sRWgak34XjCH0vYP5B1hmdTilhRjLKlke9bFRgX4~iNvo~S0L3Rc_&Key-Pair-Id=APKAJLTNE6QMUY6HBC5A)
+[Visual Studio Start Code](https://d3c33hcgiwev3.cloudfront.net/_8ce756d9fd83d0933dbda1c4f461bdf0_1-2-3-Visual-Studio-Start-Code.zip?Expires=1643068800&Signature=aSYcafZnWdShpVQn8pTv2dL0bO2xnYVJMAYQ1nKQTtkP8x0F0md-AFTpHX777gRcIpSRSPsUJ6W-vv0JCq3ZQPAzfNQArcPxUA9pRrrrAwEdUOudZ8F6KroEOc92qfALA~T0Xn1FxZFrTexov1MwAbyq5M0wvTepTCnKDdqyAe4_&Key-Pair-Id=APKAJLTNE6QMUY6HBC5A)
+[Visual Studio Final Code](https://d3c33hcgiwev3.cloudfront.net/_73e4c54dc0828734057851062b8961f2_1-2-3-Visual-Studio-Final-Code.zip?Expires=1643068800&Signature=Scv5jln4ZpRZy1Cl9ogRnS9BBk4R-9ooJs1x2IYOJegUyRqSi7qlsDBMXtuhfEEK1DtdwfTU28gH2UeSEThqFimXRYgBtezF13htXktC0WYoO4Sn4btDEKO6E99zIYsipqZNJo~Nui1f1JFzHQXOfPfBBoGTATEki4TTzI79jW4_&Key-Pair-Id=APKAJLTNE6QMUY6HBC5A)
